@@ -1,0 +1,8 @@
+*.npy
+
+*.zip
+data/
+*.ckpt.*
+talleres_IIS/birds/*
+talleres_IIS/birds.zip
+
